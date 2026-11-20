@@ -1,0 +1,80 @@
+
+/* Resumen personal - Bridarmis Aybar */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff5f8;
+    color: #333333;
+    margin: 0;
+}
+
+/* Encabezado */
+header {
+    background-color: #f4c2d7;
+    text-align: center;
+    padding: 30px;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border: 3px solid #d87a9a;
+}
+
+h1 {
+    color: #8e345a;
+    font-size: 32px;
+}
+
+h2 {
+    color: #a64d73;
+    font-size: 24px;
+}
+
+h3 {
+    color: #8e345a;
+}
+
+/* Contenido */
+main {
+    width: 80%;
+    margin: 30px auto;
+}
+
+section {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #e8b4c8;
+    border-radius: 8px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Listas */
+li {
+    margin-bottom: 8px;
+}
+
+/* Enlaces */
+a {
+    color: #a64d73;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #702747;
+    text-decoration: underline;
+}
+
+/* Pie de página */
+footer {
+    background-color: #f4c2d7;
+    color: #8e345a;
+    text-align: center;
+    padding: 15px;
+}
